@@ -28,5 +28,8 @@ git push -u origin master #上傳到Github Repo倉庫
 git pull --all
 git push -u origin master #上傳到Github Repo倉庫
 
+git stash
+git reflog
+
 (105/03/18未完待續)
 ```
