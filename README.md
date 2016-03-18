@@ -31,10 +31,13 @@ git push -u origin master #上傳到Github Repo倉庫
 git stash #儲藏
 git reflog #追蹤變更軌跡
 
+tree .git
+git cat-file -p c545efebe5f57d4cab2ba9ec294c4b0cadf672
+
 (105/03/18未完待續)
 ```
 
-
+[Git Help](https://github.com/afgnsu/git_lab/DEMO.png)
 [連猴子都學的會Git](https://backlogtool.com/git-guide/tw/)  
 [儲藏](https://git-scm.com/book/zh-tw/v1/Git-%E5%B7%A5%E5%85%B7-%E5%84%B2%E8%97%8F-Stashing)  
 [追蹤變更軌跡](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/docs/16%20%E5%96%84%E7%94%A8%E7%89%88%E6%9C%AC%E6%97%A5%E8%AA%8C%20git%20reflog%20%E8%BF%BD%E8%B9%A4%E8%AE%8A%E6%9B%B4%E8%BB%8C%E8%B7%A1.markdown)  
