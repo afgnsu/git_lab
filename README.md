@@ -1,6 +1,7 @@
 # git_lab
 git測試
 
+```
 mkdir git_lab #本機建立目錄『git_lab』
 cd git_lab
 git init #初始化 (建立 .git 目錄)
@@ -28,5 +29,4 @@ git pull --all
 git push -u origin master #上傳到Github Repo倉庫
 
 (105/03/18未完待續)
-
-
+```
