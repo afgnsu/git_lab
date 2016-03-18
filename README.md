@@ -1,7 +1,6 @@
-# git_lab
-git測試
+# git_lab  
 ![Git Help](https://github.com/afgnsu/git_lab/blob/master/git_help.png)  
-
+git測試  
 ```
 mkdir git_lab #本機建立目錄『git_lab』
 cd git_lab
